@@ -1,6 +1,6 @@
 # React map boiler plate
 
-In todays world of front end development if your not using a major frame work angular, vue.js, react your kind of out of date I need to get
+In todays world of front end development frame work angular, vue.js, react your kind of out of date I need to get
 my skills back up on framework. Most of my tech life I have been in a position that I am always jumping from technology or products, when
 you finaly get somewhat good at something you jump to a different project and language or meets some other criteria. 
 I am choosing react becouse react native, mapbox, and I love mapbox products, and I like the feel of when i used it in the past when I was using it in the past.
